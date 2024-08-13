@@ -120,3 +120,6 @@
     />
   </a>
 </p>
+### Let's connect!
+
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you want to discuss web development, share ideas, or just chat about tech!
